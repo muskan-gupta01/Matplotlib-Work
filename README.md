@@ -74,7 +74,11 @@ Through this project, I learned:
 
 ---
 
-## Future Improvements
+👩‍💻 Author
+Muskan Gupta
+
+Connect with Me
+LinkedIn: linkedin.com/in/muskan-gupta-551293386
 
 * Add Seaborn visualizations
 * Build Machine Learning prediction model
